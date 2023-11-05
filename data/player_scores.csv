@@ -1,0 +1,732 @@
+name,position,price,predicted_score,long_term_value_rating
+Mohamed Salah,mf,12.8,6.61,100.0
+Phil Foden,mf,7.6,5.37,71.0
+Erling Haaland,st,14.0,6.91,97.0
+Ollie Watkins,st,8.3,5.41,87.0
+Heung-Min Son,mf,9.5,5.75,88.0
+James Maddison,mf,8.1,5.05,75.0
+Bryan Mbeumo,mf,6.7,4.91,71.0
+Julián Álvarez,st,7.1,4.65,62.0
+Bukayo Saka,mf,8.6,4.17,75.0
+Bruno Borges Fernandes,mf,8.3,4.74,75.0
+Dominik Szoboszlai,mf,7.0,4.46,63.0
+Kaoru Mitoma,mf,6.5,4.44,73.0
+Hwang Hee-chan,mf,5.4,4.28,56.99999999999999
+Douglas Luiz Soares de Paulo,mf,5.5,4.37,68.0
+Alisson Ramses Becker,gk,5.5,4.99,69.0
+Darwin Núñez Ribeiro,st,7.4,3.81,56.99999999999999
+Callum Wilson,st,7.8,4.23,73.0
+Marcus Rashford,mf,8.7,4.21,67.0
+Pedro Lomba Neto,mf,5.8,3.96,56.00000000000001
+Kieran Trippier,df,7.0,4.61,85.0
+Joachim Andersen,df,4.9,4.26,55.00000000000001
+José Malheiro de Sá,gk,5.0,4.48,65.0
+Moussa Diaby,mf,6.7,4.59,73.0
+Dejan Kulusevski,mf,7.0,4.2,61.0
+Matty Cash,df,5.1,3.44,52.0
+Kyle Walker,df,5.3,3.67,47.0
+Sam Johnstone,gk,4.5,4.65,61.0
+Matheus Santos Carneiro Da Cunha,st,5.5,4.03,53.0
+Virgil van Dijk,df,6.0,4.38,60.0
+Pedro Porro,df,5.2,4.29,62.0
+Marc Guéhi,df,4.5,3.89,50.0
+Jarrod Bowen,mf,7.4,4.09,73.0
+Abdoulaye Doucouré,mf,5.5,3.59,55.00000000000001
+Ezri Konsa Ngoyo,df,4.5,3.71,55.00000000000001
+John McGinn,mf,5.5,3.62,56.00000000000001
+Trent Alexander-Arnold,df,7.9,4.37,60.0
+Ethan Pinnock,df,4.5,3.67,50.0
+Guglielmo Vicario,gk,5.2,4.19,61.0
+Jordan Ayew,mf,5.4,3.43,45.0
+Ederson Santana de Moraes,gk,5.5,3.86,49.0
+Diogo Teixeira da Silva,mf,7.7,3.74,52.0
+Odsonne Edouard,st,5.5,3.37,46.0
+Yoane Wissa,st,5.9,4.1,56.00000000000001
+Pau Torres,df,4.5,3.79,56.00000000000001
+Bernardo Veiga de Carvalho e Silva,mf,6.3,3.3,43.0
+André Onana,gk,4.8,2.69,41.0
+Bernd Leno,gk,4.7,3.68,54.0
+Lucas Digne,df,4.7,3.44,52.0
+Micky van de Ven,df,4.6,3.86,56.00000000000001
+Emiliano Martínez,gk,4.9,4.0,59.0
+Eddie Nketiah,st,5.5,3.0,59.0
+Cristian Romero,df,4.9,3.26,47.0
+Pascal Groß,mf,6.3,3.09,51.0
+Evan Ferguson,st,6.0,3.33,56.00000000000001
+Anthony Gordon,mf,5.7,3.33,57.99999999999999
+Alexis Mac Allister,mf,5.9,3.26,46.0
+Rúben Gato Alves Dias,df,5.5,3.72,47.0
+Max Kilman,df,4.5,2.98,46.0
+Rodrigo Hernandez,mf,5.6,3.04,41.0
+Pape Matar Sarr,mf,4.6,3.0,42.0
+Diogo Dalot Teixeira,df,4.9,2.98,46.0
+Joško Gvardiol,df,5.0,3.17,41.0
+James Ward-Prowse,mf,6.3,3.01,53.0
+Raheem Sterling,mf,7.0,3.07,55.00000000000001
+Jordan Pickford,gk,4.4,3.35,51.0
+Mark Flekken,gk,4.5,3.23,42.0
+James Tarkowski,df,4.5,3.12,48.0
+Dan Burn,df,4.7,3.04,56.99999999999999
+Dominic Calvert-Lewin,st,5.8,3.24,51.0
+Mathias Jensen,mf,5.5,3.11,44.0
+Christian Nørgaard,mf,5.5,3.0,40.0
+Craig Dawson,df,4.5,3.1,43.0
+Tyrick Mitchell,df,4.5,2.99,39.0
+Willian Borges Da Silva,mf,5.3,3.37,51.0
+Dominic Solanke,st,6.4,2.86,53.0
+Lewis Dunk,df,5.0,2.96,49.0
+Richarlison de Andrade,mf,6.7,2.95,43.0
+Nathan Collins,df,4.5,2.87,37.0
+John Stones,df,5.3,3.04,40.0
+Alphonse Areola,gk,4.2,3.02,52.0
+Dwight McNeil,mf,5.4,3.15,48.0
+James Garner,mf,4.9,2.95,45.0
+Nick Pope,gk,5.5,3.31,62.0
+Mario Lemina,mf,4.9,2.51,37.0
+Fabian Schär,df,5.2,2.95,56.99999999999999
+João Palhinha Gonçalves,mf,5.0,2.64,40.0
+Morgan Gibbs-White,mf,5.8,2.59,46.0
+Alexander Isak,st,7.5,2.75,47.0
+Vitalii Mykolenko,df,4.3,3.0,45.0
+David Raya Martin,gk,4.8,3.23,63.0
+Gustavo Hamer,mf,5.0,2.57,41.0
+Scott McTominay,mf,4.8,2.4,37.0
+Nicolas Jackson,st,6.9,2.24,40.0
+Levi Colwill,df,4.6,2.52,45.0
+Amadou Onana,mf,4.8,2.66,40.0
+Konstantinos Tsimikas,df,4.5,2.35,32.0
+Bruno Guimarães Rodriguez Moura,mf,5.8,3.16,56.00000000000001
+William Saliba,df,5.2,2.75,56.99999999999999
+Tim Ream,df,4.5,2.69,38.0
+Ibrahima Konaté,df,4.9,2.28,32.0
+Jack Harrison,mf,5.5,3.38,53.0
+Cole Palmer,mf,5.0,2.52,46.0
+Declan Rice,mf,5.4,2.56,51.0
+Kristoffer Ajer,df,4.5,3.01,39.0
+Timothy Castagne,df,4.5,2.7,41.0
+Vladimír Coufal,df,4.6,2.66,50.0
+Cheick Doucouré,mf,5.0,2.53,34.0
+Gabriel Martinelli Silva,mf,7.7,2.43,48.0
+James Trafford,gk,4.5,2.3,32.0
+Robert Sánchez,gk,4.6,2.73,50.0
+Martin Ødegaard,mf,8.5,2.81,55.00000000000001
+Jarrad Branthwaite,df,4.0,2.73,42.0
+Jack Grealish,mf,7.3,2.5,34.0
+Joel Ward,df,4.5,3.03,38.0
+Toti António Gomes,df,4.4,2.57,38.0
+Solly March,mf,6.3,2.47,42.0
+Lucas Tolentino Coelho de Lima,mf,6.0,2.51,45.0
+Conor Gallagher,mf,5.4,2.5,45.0
+Jérémy Doku,mf,6.5,2.67,35.0
+Jason Steele,gk,4.3,2.6,40.0
+Luis Díaz,mf,7.5,2.73,38.0
+Sean Longstaff,mf,4.9,2.32,44.0
+Carlton Morris,st,5.5,2.37,42.0
+Alex Iwobi,mf,5.4,2.5,36.0
+Philip Billing,mf,5.2,2.35,45.0
+Christian Eriksen,mf,5.9,2.6,39.0
+Antonee Robinson,df,4.5,2.41,34.0
+Wes Foderingham,gk,4.5,1.77,27.0
+Jonny Evans,df,4.0,2.52,38.0
+Boubacar Kamara,mf,5.0,2.13,33.0
+Kurt Zouma,df,4.5,2.23,43.0
+Mads Roerslev Rasmussen,df,4.4,2.1,28.000000000000004
+Matt Turner,gk,4.1,2.15,42.0
+Benjamin White,df,5.6,2.84,57.99999999999999
+Thiago Emiliano da Silva,df,5.0,2.56,46.0
+Charlie Taylor,df,3.9,2.8,39.0
+Oleksandr Zinchenko,df,4.9,2.29,48.0
+Chris Wood,st,4.9,2.33,42.0
+Miguel Almirón,mf,6.4,2.43,45.0
+Josh Brownhill,mf,4.8,2.31,33.0
+Anthony Elanga,mf,5.0,2.29,45.0
+Aaron Hickey,df,4.5,2.31,30.0
+Andreas Pereira,mf,5.5,1.88,28.000000000000004
+Lyle Foster,st,5.0,2.61,38.0
+Kai Havertz,mf,7.1,2.08,44.0
+Nélson Cabral Semedo,df,4.5,2.34,40.0
+Luca Koleosho,mf,5.0,2.31,33.0
+Vini de Souza Costa,mf,5.0,2.12,34.0
+Harry Maguire,df,4.2,2.25,34.0
+Nayef Aguerd,df,4.5,2.24,43.0
+Nathan Patterson,df,4.4,1.94,28.000000000000004
+Jamaal Lascelles,df,4.0,1.88,35.0
+Mohammed Kudus,mf,6.5,2.46,41.0
+Joelinton Cássio Apolinário de Lira,mf,5.8,1.98,34.0
+Eberechi Eze,mf,6.1,2.8,38.0
+Simon Adingra,mf,5.0,2.1,35.0
+Willy Boly,df,4.5,1.81,34.0
+Vitaly Janelt,mf,5.4,2.21,32.0
+Rayan Aït-Nouri,df,4.5,2.15,31.0
+Alfie Doughty,df,4.4,1.87,35.0
+Jefferson Lerma,mf,4.7,1.84,27.0
+Gabriel dos Santos Magalhães,df,4.7,2.08,42.0
+Will Hughes,mf,4.9,2.1,28.000000000000004
+Thomas Kaminski,gk,4.5,1.93,35.0
+João Pedro Junqueira de Jesus,st,5.3,1.83,30.0
+Edson Álvarez Velázquez,mf,5.0,2.01,35.0
+Moisés Caicedo,mf,4.7,1.82,31.0
+Chiedozie Ogbene,st,4.9,2.38,44.0
+Oliver Norwood,mf,4.8,1.86,30.0
+Cameron Archer,st,4.5,1.77,28.999999999999996
+Michail Antonio,st,5.8,2.25,40.0
+Nicolò Zaniolo,mf,5.5,1.93,28.999999999999996
+Rasmus Højlund,st,7.2,1.91,30.0
+Dara O'Shea,df,4.4,1.62,23.0
+Neal Maupay,st,4.9,1.98,27.0
+Serge Aurier,df,4.5,2.07,40.0
+Ibrahim Sangaré,mf,5.0,1.75,32.0
+Nicolás Domínguez,mf,5.0,2.2,38.0
+Enzo Fernández,mf,4.9,1.54,27.0
+Tomáš Souček,mf,4.9,1.77,32.0
+Leon Bailey,mf,5.5,1.98,30.0
+Adam Webster,df,4.3,2.15,35.0
+Victor Lindelöf,df,4.5,2.04,32.0
+Destiny Udogie,df,4.9,2.0,28.999999999999996
+Murillo Santiago Costa dos Santos,df,4.5,1.93,38.0
+Ryan Christie,mf,5.0,1.77,33.0
+Issa Kaboré,df,4.0,1.52,28.999999999999996
+Igor Julio dos Santos de Paulo,df,4.3,1.92,30.0
+Tom Lockyer,df,4.3,1.78,35.0
+Bobby De Cordova-Reid,mf,5.5,1.78,27.0
+Marcus Tavernier,mf,5.4,2.01,37.0
+Manuel Akanji,df,5.0,1.89,24.0
+Ameen Al-Dakhil,df,4.0,1.45,21.0
+James McAtee,mf,4.4,1.76,28.000000000000004
+Calvin Bassey,df,4.4,2.05,28.000000000000004
+Andrew Robertson,df,6.5,2.41,33.0
+Orel Mangala,mf,5.0,1.66,28.999999999999996
+Jack Robinson,df,4.4,1.39,22.0
+Jacob Murphy,mf,4.8,1.87,34.0
+Axel Disasi,df,5.1,1.38,28.000000000000004
+Luke Thomas,df,4.0,1.35,22.0
+Jean-Philippe Mateta,st,4.9,1.83,26.0
+Ryan Gravenberch,mf,5.0,2.06,28.000000000000004
+Auston Trusty,df,3.9,1.5,24.0
+Pierre-Emile Højbjerg,mf,5.2,1.86,27.0
+Anssumane Fati Vieira,mf,6.5,2.03,33.0
+Cody Gakpo,st,7.2,2.19,30.0
+Max Aarons,df,4.5,1.3,25.0
+Victor da Silva,df,4.4,1.27,19.0
+Lloyd Kelly,df,4.5,1.31,26.0
+Marc Cucurella,df,4.8,1.78,34.0
+Marvelous Nakamba,mf,4.4,1.27,21.0
+Jayden Bogle,df,4.5,1.51,24.0
+Josh Cullen,mf,5.0,1.47,23.0
+Emerson Palmieri dos Santos,df,4.5,1.14,21.0
+Zeki Amdouni,st,5.4,1.62,24.0
+Sander Berge,mf,4.8,1.38,22.0
+Nathan Aké,df,5.1,1.68,21.0
+Illia Zabarnyi,df,4.5,1.28,25.0
+Jeffrey Schlupp,mf,4.9,1.63,25.0
+Norberto Murara Neto,gk,4.5,1.67,32.0
+Sofyan Amrabat,mf,5.0,1.6,24.0
+Jacob Brown,st,4.9,1.44,24.0
+Gabriel Fernando de Jesus,st,7.9,1.87,36.0
+Mykhailo Mudryk,mf,6.3,1.59,27.0
+Elliot Anderson,mf,4.4,1.52,28.000000000000004
+Carlos Baleba,mf,4.5,1.84,30.0
+Teden Mengi,df,3.9,1.37,25.0
+Antoine Semenyo,st,4.5,1.34,26.0
+Carlos Henrique Casimiro,mf,5.4,1.44,23.0
+Harry Toffolo,df,4.4,1.22,21.0
+Moussa Niakhaté,df,4.5,1.06,19.0
+Oliver McBurnie,st,5.4,1.51,24.0
+Aaron Cresswell,df,4.2,1.71,28.999999999999996
+Boubacar Traoré,mf,4.4,1.51,22.0
+Andros Townsend,mf,5.0,1.38,23.0
+Frank Onyeka,mf,4.9,1.33,19.0
+Matt Doherty,df,4.3,1.96,28.999999999999996
+Harrison Reed,mf,4.8,1.6,24.0
+Jakub Kiwior,df,4.3,1.57,32.0
+Billy Gilmour,mf,4.9,1.2,19.0
+Harry Wilson,mf,5.3,1.4,22.0
+Alex Scott,mf,4.9,1.61,31.0
+Leandro Trossard,mf,6.5,1.81,34.0
+João Victor Gomes da Silva,mf,4.9,1.48,21.0
+Elijah Adebayo,st,4.8,1.69,28.999999999999996
+Emile Smith Rowe,mf,5.3,1.64,32.0
+Ross Barkley,mf,4.9,1.59,27.0
+Malo Gusto,df,4.2,1.38,25.0
+Carlos Vinícius Alves Morais,st,4.8,1.29,20.0
+Mahmoud Dahoud,mf,4.8,1.42,23.0
+Pervis Estupiñán,df,5.0,1.46,23.0
+Pelly Ruddock Mpanzu,mf,4.8,1.3,21.0
+Jacob Bruun Larsen,mf,4.9,1.37,20.0
+Sven Botman,df,4.7,1.36,25.0
+Brennan Johnson,mf,5.8,1.37,20.0
+Issa Diop,df,4.5,1.33,19.0
+Yves Bissouma,mf,5.0,1.22,18.0
+Joël Veltman,df,4.4,1.68,28.000000000000004
+Sasa Kalajdzic,st,4.9,1.24,19.0
+Jóhann Berg Gudmundsson,mf,4.8,1.32,20.0
+Alejandro Garnacho,mf,4.7,1.08,18.0
+Taiwo Awoniyi,st,6.5,1.69,28.999999999999996
+Chris Mepham,df,4.3,0.94,17.0
+Fábio Ferreira Vieira,mf,5.4,1.29,25.0
+Raúl Jiménez,st,5.3,1.31,20.0
+Reece Burke,df,4.0,1.0,17.0
+Milos Kerkez,df,4.5,1.01,18.0
+Youri Tielemans,mf,5.7,1.3,21.0
+Mason Mount,mf,6.8,1.55,25.0
+Ionuț Radu,gk,4.4,1.46,28.000000000000004
+Takehiro Tomiyasu,df,4.5,1.04,20.0
+Connor Roberts,df,4.4,1.36,19.0
+Danny Welbeck,st,5.8,1.36,22.0
+Joe Gomez,df,4.5,1.45,19.0
+Wilson Odobert,mf,5.0,1.19,19.0
+Norberto Bercique Gomes Betuncal,st,5.9,1.07,16.0
+Ashley Young,df,4.4,1.26,19.0
+Saman Ghoddos,mf,4.5,1.21,16.0
+Mike Trésor,mf,5.5,1.15,18.0
+Jesurun Rak-Sakyi,mf,4.5,0.88,13.0
+Saïd Benrahma,mf,5.7,1.34,23.0
+Antony Matheus dos Santos,mf,6.8,1.21,19.0
+Joel Matip,df,4.9,1.18,16.0
+Noni Madueke,mf,5.3,1.09,18.0
+Sandro Tonali,mf,5.3,0.95,16.0
+Callum Hudson-Odoi,mf,4.9,1.13,18.0
+Stefan Ortega Moreno,gk,3.9,1.15,15.0
+Tom Cairney,mf,4.9,1.1,16.0
+Raphaël Varane,df,5.0,1.31,20.0
+Arnaut Danjuma,mf,5.4,0.9,14.000000000000002
+Anass Zaroury,mf,4.8,1.19,18.0
+Jorge Luiz Frello Filho,mf,5.3,1.27,21.0
+Matheus Luiz Nunes,mf,5.0,1.31,18.0
+Olu Aina,df,4.5,0.92,16.0
+Harvey Elliott,mf,4.8,0.85,12.0
+Tahith Chong,mf,4.9,0.82,12.0
+Mateo Kovačić,mf,4.9,1.02,14.000000000000002
+Adam Lallana,mf,4.9,1.02,16.0
+Dango Ouattara,mf,4.8,1.01,17.0
+Anthony Martial,st,6.5,1.01,17.0
+Armando Broja,st,4.9,1.07,17.0
+Jacob Ramsey,mf,5.9,1.07,17.0
+Manor Solomon,mf,5.2,1.11,16.0
+David Brooks,mf,4.9,0.92,15.0
+Anel Ahmedhodžić,df,4.3,0.63,10.0
+Rico Lewis,df,4.3,0.95,12.0
+Lewis Cook,mf,5.0,0.85,13.0
+Nathaniel Clyne,df,4.4,1.06,16.0
+Emerson Leite de Souza Junior,df,4.4,1.07,15.0
+Reece James,df,5.3,0.86,15.0
+Keane Lewis-Potter,mf,4.8,0.74,11.0
+Diego Carlos Santos Silva,df,4.4,0.66,10.0
+Aaron Ramsey,mf,5.0,0.62,10.0
+Tommy Doyle,mf,4.4,0.69,10.0
+Rhian Brewster,st,4.9,0.95,15.0
+Saša Lukić,mf,4.4,0.89,13.0
+Marcos Senesi,df,4.4,0.94,15.0
+Jordan Beyer,df,4.0,0.51,8.0
+Ryan Yates,mf,4.9,0.81,13.0
+Amari'i Bell,df,3.9,0.59,9.0
+Idrissa Gueye,mf,4.8,0.82,12.0
+Ben Chilwell,df,5.4,0.68,11.0
+Matheus França de Oliveira,mf,4.9,0.67,10.0
+Sergio Reguilón,df,4.4,0.84,14.000000000000002
+Ian Maatsen,mf,5.2,0.7,12.0
+Adam Smith,df,4.4,0.81,13.0
+Joe Rothwell,mf,4.9,0.73,13.0
+Justin Kluivert,mf,4.7,0.72,11.0
+Hannibal Mejbri,mf,4.4,0.64,10.0
+Ben Davies,df,4.3,0.7,10.0
+Yegor Yarmolyuk,mf,4.4,0.51,7.000000000000001
+Curtis Jones,mf,4.9,0.76,11.0
+Jairo Riedewald,mf,4.4,0.85,12.0
+Reiss Nelson,mf,4.9,0.59,10.0
+Hannes Delcroix,df,4.0,0.48,8.0
+Oscar Bobb,mf,4.4,0.87,12.0
+Kieffer Moore,st,4.7,0.63,10.0
+Cauley Woodrow,st,4.4,0.72,11.0
+Jay Rodriguez,st,5.3,1.06,16.0
+Pablo Sarabia,mf,4.8,0.63,9.0
+Bart Verbruggen,gk,4.4,0.71,11.0
+Thomas Strakosha,gk,3.9,0.46,7.000000000000001
+Pablo Fornals,mf,4.7,0.88,14.000000000000002
+Lesley Ugochukwu,mf,4.4,0.58,9.0
+Ryan Giles,df,4.4,0.42,6.0
+Bénie Traoré,st,5.2,0.61,9.0
+Chris Basham,df,4.0,0.63,10.0
+Anis Slimane,mf,4.7,0.77,13.0
+Oliver Skipp,mf,4.6,0.52,8.0
+Kevin Schade,mf,5.3,0.66,9.0
+Jack Hinshelwood,mf,4.5,0.51,8.0
+Facundo Buonanotte,mf,4.8,0.82,12.0
+Harvey Barnes,mf,6.2,0.68,13.0
+Neco Williams,df,4.3,0.47,7.000000000000001
+Ben Osborn,mf,4.8,0.69,11.0
+Facundo Pellistri Rebollo,mf,4.4,0.47,7.000000000000001
+Tariq Lamptey,df,4.0,0.74,12.0
+Rodrigo Muniz Carvalho,st,4.4,0.49,7.000000000000001
+Luis Sinisterra,mf,5.5,0.74,13.0
+Mads Juel Andersen,df,4.0,0.66,11.0
+Jhon Durán,st,5.0,0.56,9.0
+Wataru Endo,mf,5.4,0.55,8.0
+James Milner,mf,4.8,0.85,13.0
+Nathan Redmond,mf,4.8,0.58,9.0
+Gonzalo Montiel,df,4.5,0.48,7.000000000000001
+Mohamed Elneny,mf,4.4,0.39,6.0
+Ryan Oné,mf,4.5,1.04,16.0
+Tino Livramento,df,4.4,0.46,8.0
+Cheikhou Kouyaté,mf,4.8,0.61,10.0
+Divock Origi,st,5.0,0.54,8.0
+Danny Ings,st,5.7,0.82,13.0
+Fábio Silva,st,5.3,0.51,7.000000000000001
+Luke Shaw,df,5.2,0.39,7.000000000000001
+Thomas Partey,mf,4.8,0.65,12.0
+Aaron Wan-Bissaka,df,4.4,0.49,8.0
+Kenny Tete,df,4.4,0.47,7.000000000000001
+Joe Worrall,df,4.5,0.61,10.0
+Jan Paul van Hecke,df,4.0,0.44,7.000000000000001
+Rico Henry,df,4.4,0.57,8.0
+Joe Willock,mf,5.3,0.5,10.0
+Albert Sambi Lokonga,mf,4.9,0.43,7.000000000000001
+Naouirou Ahamada,mf,4.3,0.41,6.0
+Jean-Ricner Bellegarde,mf,5.0,0.4,5.0
+Ivan Perišić,df,4.8,0.56,8.0
+Scott McKenna,df,4.5,0.37,6.0
+Lisandro Martínez,df,4.7,0.33,5.0
+Aaron Ramsdale,gk,4.8,0.4,7.000000000000001
+John Fleck,mf,4.9,0.52,8.0
+Michael Olakigbe,mf,4.5,0.38,5.0
+Youssef Ramalho Chermiti,st,4.9,0.55,8.0
+Kalvin Phillips,mf,4.8,0.55,7.000000000000001
+Tom Davies,mf,5.0,0.51,8.0
+Hugo Bueno López,df,4.4,0.39,5.0
+George Baldock,df,3.9,0.41,7.000000000000001
+Carney Chukwuemeka,mf,4.3,0.32,5.0
+Rodrigo Bentancur,mf,5.4,0.35,5.0
+Julio Enciso,mf,5.1,0.47,7.000000000000001
+John Egan,df,4.4,0.51,8.0
+Ben Mee,df,4.8,0.48,6.0
+Nuno Varela Tavares,df,4.0,0.3,5.0
+Deivid Washington de Souza Eugênio,st,4.5,0.37,6.0
+Michael Keane,df,4.3,0.54,8.0
+Andrey Nascimento dos Santos,mf,4.4,0.26,4.0
+Chris Richards,df,3.9,0.26,4.0
+Leander Dendoncker,mf,4.9,0.56,9.0
+Yasser Larouci,df,4.4,0.28,4.0
+Sergio Gómez,df,3.9,0.41,5.0
+Bryan Gil Salvatierra,mf,4.9,0.24,4.0
+Lewis Dobbin,mf,4.5,0.23,3.0
+Harry Kane,st,12.5,0.33,5.0
+Giovani Lo Celso,mf,4.8,0.28,4.0
+Bertrand Traoré,mf,5.0,0.31,5.0
+Alejo Véliz,st,5.4,0.37,5.0
+Gabriel Osho,df,4.4,0.31,5.0
+David Ozoh,mf,4.5,0.23,3.0
+Danilo dos Santos de Oliveira,mf,5.3,0.29,4.0
+Jarell Quansah,df,4.0,0.18,3.0
+Manuel Benson Hedilazio,mf,5.2,0.2,3.0
+Tyrone Mings,df,4.2,0.26,4.0
+Matt Targett,df,4.3,0.21,4.0
+Luke Berry,mf,4.7,0.23,3.0
+Donny van de Beek,mf,4.8,0.24,4.0
+Kevin De Bruyne,mf,10.2,0.57,7.000000000000001
+William Osula,st,4.3,0.16,2.0
+Hamed Traorè,mf,4.8,0.2,3.0
+Jadon Sancho,mf,6.7,0.31,6.0
+Luke Harris,mf,4.5,0.16,2.0
+Aleksandar Mitrović,st,7.4,0.59,8.0
+Angelo Ogbonna,df,4.4,0.22,3.0
+Jaidon Anthony,mf,4.9,0.34,6.0
+Max Lowe,df,4.4,0.13,2.0
+Robin Olsen,gk,4.0,0.2,3.0
+Adama Traoré,mf,4.9,0.4,6.0
+Daniel Castelo Podence,mf,5.3,0.4,5.0
+Lukasz Fabianski,gk,4.3,0.22,4.0
+Mikkel Damsgaard,mf,4.9,0.21,3.0
+Mathias Jorgensen,df,4.4,0.27,4.0
+Aymeric Laporte,df,4.9,0.46,5.0
+Vicente Guaita,gk,4.4,0.33,4.0
+Eric Dier,df,4.2,0.18,2.0
+Davinson Sánchez,df,4.4,0.25,3.0
+Emiliano Buendía,mf,5.7,0.28,4.0
+Kepa Arrizabalaga,gk,5.0,0.21,4.0
+João Cancelo,df,5.8,0.13,1.0
+Jurriën Timber,df,4.6,0.04,0.0
+Demarai Gray,mf,5.3,0.22,3.0
+Michael Olise,mf,5.8,0.49,8.0
+Philippe Coutinho Correia,mf,5.8,0.17,2.0
+Ivan Toney,st,7.9,0.35,5.0
+Thilo Kehrer,df,4.3,0.27,4.0
+Hugo Lloris,gk,4.8,0.19,2.0
+Riyad Mahrez,mf,7.5,0.83,11.0
+Granit Xhaka,mf,6.0,0.2,4.0
+Shandon Baptiste,mf,4.3,0.16,2.0
+Fraser Forster,gk,3.9,0.18,2.0
+Lewis Hall,df,4.4,0.12,2.0
+Jonathan Castro Otto,df,4.4,0.3,3.0
+Tosin Adarabioyo,df,4.3,0.22,3.0
+Dean Henderson,gk,4.5,0.18,2.0
+Josh Dasilva,mf,4.7,0.24,3.0
+Fabio Henrique Tavares,mf,5.0,0.31,4.0
+Divin Mubama,st,4.3,0.09,1.0
+Alexandre Moreno Lopera,df,5.0,0.15,2.0
+Frederico Rodrigues de Paula Santos,mf,5.0,0.28,5.0
+Jordan Henderson,mf,5.0,0.32,4.0
+Mason Holgate,df,4.0,0.15,2.0
+Hwang Ui-jo,st,4.4,0.09,1.0
+Tyrell Malacia,df,4.3,0.19,3.0
+Clément Lenglet,df,4.5,0.26,4.0
+Andre Brooks,mf,4.5,0.1,1.0
+Japhet Tanganga,df,4.0,0.13,2.0
+Trevoh Chalobah,df,4.3,0.33,5.0
+Andi Zeqiri,st,4.4,0.06,1.0
+Christopher Nkunku,st,7.3,0.06,1.0
+Jack Cork,mf,4.8,0.21,3.0
+Djed Spence,df,4.0,0.06,1.0
+Emmanuel Dennis,st,4.8,0.24,3.0
+Seamus Coleman,df,4.4,0.28,4.0
+Kieran Tierney,df,4.4,0.14,3.0
+James Hill,df,4.0,0.07,1.0
+Folarin Balogun,st,4.4,0.04,0.0
+Bendegúz Bolla,df,4.0,0.08,1.0
+Thiago Alcántara do Nascimento,mf,4.8,0.29,4.0
+Remo Freuler,mf,4.9,0.16,2.0
+James Tomkins,df,4.0,0.1,1.0
+Roméo Lavia,mf,4.9,0.16,2.0
+Mason Burstow,st,4.5,0.12,2.0
+Dane Scarlett,st,4.5,0.03,0.0
+Tanguy Ndombélé Alvaro,mf,4.4,0.04,0.0
+Marek Rodák,gk,3.9,0.05,1.0
+Allan Saint-Maximin,mf,6.0,0.26,6.0
+Sam Surridge,st,4.5,0.12,1.0
+Louie Watson,mf,4.4,0.1,1.0
+Matt Macey,gk,4.0,0.1,1.0
+Kevin Mbabu,df,4.0,0.1,1.0
+Romelu Lukaku,st,6.8,0.27,4.0
+John McAtee,st,4.5,0.13,1.0
+Gianluca Scamacca,st,6.0,0.15,2.0
+Konstantinos Mavropanos,df,4.5,0.1,1.0
+Alex Matos,mf,4.5,0.12,2.0
+Deniz Undav,st,5.5,0.19,3.0
+Antwoine Hackford,st,4.5,0.05,1.0
+Ben Doak,mf,4.4,0.05,0.0
+Joe Rodon,df,4.0,0.12,2.0
+Wesley Fofana,df,4.4,0.17,3.0
+César Azpilicueta,df,4.5,0.17,3.0
+Benoît Badiashile,df,4.4,0.22,4.0
+Hakim Ziyech,mf,5.4,0.39,6.0
+Keinan Davis,st,4.9,0.08,1.0
+Calum Chambers,df,3.9,0.18,3.0
+Álvaro Fernández Carreras,df,4.0,0.13,2.0
+Matija Šarkić,gk,4.0,0.06,1.0
+Martin Dubravka,gk,3.9,0.11,2.0
+Joe Whitworth,gk,4.0,0.08,1.0
+Joe Taylor,st,4.5,0.11,1.0
+Aribim Pepple,st,4.5,0.13,1.0
+André Tavares Gomes,mf,4.4,0.15,2.0
+Admiral Muskwe,st,4.5,0.14,2.0
+Ben Johnson,df,4.4,0.22,3.0
+Rúnar Alex Rúnarsson,gk,4.0,0.05,0.0
+Marcus Oliveira Alencar,mf,4.5,0.06,1.0
+Cédric Soares,df,3.9,0.2,3.0
+Shea Charles,mf,4.5,0.11,1.0
+Zack Steffen,gk,3.9,0.1,1.0
+Máximo Perrone,mf,4.4,0.09,1.0
+Scott Carson,gk,3.9,0.1,1.0
+Nathaniel Phillips,df,4.0,0.09,1.0
+Christian Pulisic,mf,5.5,0.32,5.0
+Steve Cook,df,4.5,0.11,2.0
+Felipe Augusto de Almeida Monteiro,df,4.4,0.18,3.0
+João Neves Virgínia,gk,3.9,0.07,1.0
+Maxwel Cornet,mf,5.3,0.13,2.0
+Gonçalo Manuel Ganchinho Guedes,mf,5.4,0.17,2.0
+Nicolas Pépé,mf,4.9,0.17,3.0
+Karl Hein,gk,4.0,0.04,0.0
+Nikola Vlašić,mf,4.5,0.07,1.0
+Tyler Adams,mf,5.0,0.14,1.0
+Ryan Sessegnon,df,4.4,0.11,1.0
+Jordan Amissah,gk,3.9,0.08,1.0
+Adam Davies,gk,4.0,0.09,1.0
+Alfie Whiteman,gk,3.9,0.03,0.0
+Mads Bech Sørensen,df,4.0,0.11,1.0
+Hjalmar Ekdal,df,3.9,0.05,0.0
+Arijanet Muric,gk,4.3,0.07,1.0
+Wout Weghorst,st,5.5,0.16,2.0
+Daniel Bentley,gk,3.9,0.13,1.0
+Eric Bailly,df,4.0,0.11,1.0
+Jake O'Brien,df,4.0,0.06,1.0
+Tom King,gk,4.0,0.08,1.0
+John-Kymani Gordon,st,4.5,0.06,1.0
+Jaden Philogene-Bidace,mf,4.5,0.05,0.0
+Brandon Williams,df,4.0,0.17,2.0
+Bruno Cavaco Jordão,mf,4.4,0.11,1.0
+Jakub Moder,mf,4.4,0.11,2.0
+Steven Alzate,mf,4.4,0.14,2.0
+Terence Kongolo,df,4.0,0.05,0.0
+Mohamed Dräger,df,4.0,0.04,0.0
+Dion Pereira,mf,4.4,0.1,1.0
+Wayne Hennessey,gk,4.0,0.08,1.0
+Jonathan Panzo,df,4.0,0.04,0.0
+Jamie Donley,st,4.5,0.05,1.0
+CJ Egan-Riley,df,3.9,0.06,1.0
+Dara Costelloe,mf,4.5,0.06,1.0
+Femi Seriki,df,4.0,0.07,1.0
+Ismaila Coulibaly,mf,4.4,0.1,1.0
+Luke McNally,df,4.0,0.06,1.0
+Michael Obafemi,st,4.9,0.16,2.0
+Han-Noah Massengo,mf,5.0,0.07,1.0
+Ji-Soo Kim,df,4.0,0.07,1.0
+Ashley Phillips,df,4.0,0.03,0.0
+Sergi Canós Tenés,mf,5.0,0.11,1.0
+Mads Bidstrup,mf,4.5,0.04,0.0
+Rhys Norrington-Davies,df,3.9,0.07,1.0
+Jili Buyabu,df,4.0,0.18,3.0
+Ellery Balcombe,gk,4.0,0.05,0.0
+Darko Churlinov,mf,4.4,0.06,1.0
+Louie Marsh,st,4.5,0.12,2.0
+Brandon Austin,gk,3.9,0.03,0.0
+Bobby Thomas,df,4.0,0.07,1.0
+Denis Franchi,gk,3.9,0.07,1.0
+Samuel Bastien,mf,4.9,0.05,1.0
+Matthew Cox,gk,4.0,0.04,0.0
+Enock Agyei,mf,4.4,0.06,1.0
+Ethan Brierley,mf,4.5,0.06,1.0
+Halil Dervişoğlu,st,4.5,0.03,0.0
+Charlie Goode,df,3.9,0.07,1.0
+Ryan Trevitt,mf,4.5,0.06,1.0
+Scott Twine,mf,4.9,0.06,1.0
+Lawrence Vigouroux,gk,4.0,0.07,1.0
+Owen Dodgson,df,4.0,0.07,1.0
+Bailey Peacock-Farrell,gk,4.0,0.03,0.0
+Iliman Ndiaye,st,5.5,0.12,2.0
+Daniel Jebbison,st,4.8,0.36,5.0
+Shola Shoretire,st,4.4,0.07,1.0
+Sepp van den Berg,df,4.0,0.02,0.0
+Omari Kellyman,mf,4.5,0.08,1.0
+Kobbie Mainoo,mf,4.4,0.05,1.0
+Amad Diallo,mf,4.4,0.06,1.0
+Tom Heaton,gk,4.0,0.06,1.0
+Luke Plange,st,4.5,0.06,1.0
+Stefan Bajcetic,mf,4.8,0.09,1.0
+Adrián San Miguel del Castillo,gk,4.0,0.02,1.0
+Caoimhin Kelleher,gk,3.9,0.07,1.0
+James McConnell,mf,4.5,0.08,1.0
+Alex Telles,df,4.5,0.19,3.0
+Luke Cundle,mf,4.5,0.11,1.0
+Francisco Jorge Tomás Oliveira,mf,4.5,0.2,2.0
+Omari Forson,mf,4.4,0.05,1.0
+Ki-Jana Hoever,df,4.0,0.15,2.0
+Bobby Clark,mf,4.5,0.05,0.0
+Joe Hodge,mf,4.4,0.11,1.0
+Remi Matthews,gk,4.0,0.05,0.0
+Malcolm Ebiowei,mf,4.5,0.05,1.0
+Jeremy Sarmiento Morante,mf,4.5,0.08,1.0
+Kjell Scherpen,gk,4.0,0.03,0.0
+Santiago Bueno,df,4.5,0.08,1.0
+Nathan Fraser,st,4.5,0.12,1.0
+Tom McGill,gk,3.9,0.04,1.0
+Rob Holding,df,4.4,0.22,3.0
+Filip Marschall,gk,4.0,0.04,0.0
+Luke Chambers,df,4.0,0.03,0.0
+Tim Iroegbunam,mf,4.4,0.07,1.0
+Kortney Hause,df,4.0,0.15,2.0
+Ademola Ola-Adebomi,st,4.5,0.09,1.0
+Jadan Raymond,mf,4.5,0.09,1.0
+Yasin Ayari,mf,4.5,0.07,1.0
+Aaron Connolly,st,4.5,0.11,2.0
+Enso González,mf,5.0,0.1,1.0
+Callum Scanlon,df,4.0,0.11,1.0
+Kacper Kozłowski,mf,4.5,0.06,1.0
+Daniel Gore,mf,4.5,0.07,1.0
+Radek Vítek,gk,4.0,0.04,1.0
+Michał Karbownik,df,4.0,0.08,1.0
+Morgan Sanson,mf,4.5,0.09,1.0
+Wesley Moraes Ferreira da Silva,st,5.0,0.07,1.0
+Viljami Sinisalo,gk,4.0,0.03,0.0
+Altay Bayindir,gk,4.0,0.02,0.0
+Oliwier Zych,gk,4.0,0.04,0.0
+Josh Bowler,mf,4.5,0.07,1.0
+Jay Stansfield,st,4.5,0.09,1.0
+Omar Richards,df,4.4,0.04,0.0
+Harry Arter,mf,4.4,0.05,0.0
+Mackenzie Hunt,mf,4.5,0.07,1.0
+Lewis O'Brien,mf,4.9,0.1,1.0
+Anthony Knockaert,mf,4.4,0.04,0.0
+Tyler Onyango,mf,4.5,0.07,1.0
+Tim Krul,gk,4.5,0.21,4.0
+Ellis Simms,st,4.5,0.12,2.0
+Ben Godfrey,df,4.3,0.16,2.0
+Jonjo Shelvey,mf,4.8,0.18,3.0
+Ivan Neves Abreu Cavaleiro,mf,5.0,0.13,2.0
+Tyrese Francois,mf,4.4,0.05,0.0
+Aidan Francis-Clarke,df,4.0,0.08,1.0
+Thomas Cannon,st,4.5,0.07,1.0
+Luc De Fougerolles,df,4.0,0.06,1.0
+George Shelvey,gk,4.0,0.05,1.0
+Jean-Philippe Gbamin,mf,4.4,0.07,1.0
+Josh Powell,df,4.0,0.06,1.0
+Dele Alli,mf,4.8,0.05,1.0
+Matthew Dibley-Dias,mf,4.5,0.06,1.0
+Loïc Mbe Soh,df,4.0,0.04,0.0
+Giulian Biancone,df,3.9,0.05,1.0
+Gustavo Henrique Furtado Scarpa,mf,4.5,0.07,1.0
+Braian Ojeda Rodríguez,mf,4.5,0.06,1.0
+Joseph Johnson,df,4.0,0.08,1.0
+Jack Walton,gk,4.0,0.08,1.0
+Elliot Thorpe,mf,4.5,0.11,1.0
+Richie Laryea,df,4.5,0.04,0.0
+Luke Freeman,mf,4.9,0.1,1.0
+Carlos Mendes Gomes,mf,4.5,0.09,1.0
+Allan Campbell,mf,4.9,0.1,1.0
+Fodé Ballo-Touré,df,4.5,0.07,1.0
+Ethan Horvath,gk,4.4,0.04,0.0
+Devan Tanton,df,4.0,0.2,3.0
+Glen Rea,mf,4.4,0.1,1.0
+Jordan Clark,mf,4.9,0.1,1.0
+James Shea,gk,4.4,0.08,1.0
+Jayden Luker,mf,4.5,0.15,2.0
+Fred Onyedinma,mf,5.0,0.11,1.0
+Dan Potts,df,3.9,0.07,1.0
+Steven Benda,gk,4.0,0.05,0.0
+Andy Lonergan,gk,4.0,0.06,1.0
+Brandon Aguilera Zamora,mf,4.5,0.07,1.0
+Alex Mighten,mf,4.4,0.05,0.0
+Odysseas Vlachodimos,gk,4.5,0.05,0.0
+Andrew Omobamidele,df,4.5,0.11,2.0
+Mark Travers,gk,4.0,0.13,1.0
+Flynn Downes,mf,5.0,0.16,2.0
+Bashir Humphreys,df,4.0,0.07,1.0
+Eddie Beach,gk,4.0,0.06,1.0
+Diego Manuel Jadon da Silva Moreira,mf,4.5,0.06,1.0
+Lucas Bergström,gk,4.0,0.07,1.0
+Ângelo Gabriel Borges Damaceno,mf,5.0,0.05,1.0
+Djordje Petrovic,gk,4.5,0.08,1.0
+Gabriel Słonina,gk,4.0,0.07,1.0
+Ronnie Stutter,st,4.5,0.08,1.0
+Ethan Ampadu,df,4.0,0.09,1.0
+Alfie Gilchrist,df,4.0,0.06,1.0
+Conor Coventry,mf,4.4,0.07,1.0
+David Datro Fofana,st,5.0,0.07,1.0
+Marcus Bettinelli,gk,4.0,0.06,0.0
+Malang Sarr,df,4.4,0.16,2.0
+Josh Brooking,df,4.0,0.05,1.0
+Pierre-Emerick Aubameyang,st,6.5,0.16,3.0
+Abdul Rahman Baba,df,4.0,0.05,1.0
+Joseph Anang,gk,4.0,0.06,0.0
+Paul Dummett,df,3.9,0.06,1.0
+Alex Murphy,df,3.9,0.02,0.0
+Kell Watts,df,4.0,0.02,0.0
+Darren Randolph,gk,4.0,0.09,1.0
+Loris Karius,gk,3.9,0.02,0.0
+Javier Manquillo,df,4.0,0.17,3.0
+Matt Ritchie,mf,4.4,0.11,2.0
+Karl Darlow,gk,4.0,0.04,1.0
+Harrison Ashby,df,4.0,0.01,0.0
+Jeff Hendrick,mf,4.4,0.07,1.0
+Emil Krafth,df,4.4,0.08,2.0
+Ryan Fraser,mf,4.9,0.08,1.0
+Mark Gillespie,gk,3.9,0.01,0.0
+Isaac Hayden,mf,4.4,0.07,1.0
+Jamal Lewis,df,4.0,0.1,2.0
+Garang Kuol,mf,4.5,0.01,0.0
+Lewis Miley,mf,4.5,0.03,0.0
+Gavin Kilkenny,mf,4.4,0.09,1.0
+Jamal Lowe,mf,4.9,0.08,1.0
+Emiliano Marcondes,mf,4.4,0.07,0.0
+Ben Pearson,mf,4.5,0.09,1.0
+Ben Greenwood,df,4.0,0.08,1.0
+Siriki Dembélé,mf,4.5,0.1,1.0
+Ryan Fredericks,df,4.4,0.16,2.0
