@@ -9,6 +9,7 @@ def read_data():
 
 df = read_data()
 
+st.set_page_config(page_title="Free FPL points predictor")
 
 st.title('FPL points predictor')
 
