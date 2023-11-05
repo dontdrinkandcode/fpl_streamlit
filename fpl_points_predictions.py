@@ -54,6 +54,6 @@ def get_img_with_href(local_img_path, target_url):
 #st.markdown(gif_html, unsafe_allow_html=True)
 
 
-url = "https://www.streamlit.io"
+url = "https://donate.stripe.com/aEUcOI09M9LVeEE3cc"
 st.sidebar.markdown("Found this useful? [Buy me a coffee](%s)" % url)
 st.sidebar.image("./assets/coffee_pic.png")
