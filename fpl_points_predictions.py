@@ -12,7 +12,7 @@ df = read_data()
 
 st.title('FPL points predictor')
 
-st.write('Make your selections on the left to update the table. Note that the underlying model doesn\'t know when a player is injured, or about things like cup matches or internationlal tournaments')
+st.write('Make your selections on the left to update the table (if you\'re on a mobile device click the little arrow at the top left). Note that the underlying model doesn\'t know when a player is injured, or about things like cup matches or internationlal tournaments')
 
 
 price = st.sidebar.number_input('budget', value = 15.0, step = 0.1)
