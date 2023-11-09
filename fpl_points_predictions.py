@@ -6,7 +6,7 @@ import base64
 st.set_page_config(page_title="Free FPL points predictor")
 
 
-@st.cache_data
+#@st.cache_data
 def read_data():
    return pd.read_csv("./data/player_scores.csv")
 
