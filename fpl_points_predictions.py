@@ -15,7 +15,7 @@ df = read_data()
 
 st.title('FPL points predictor')
 
-st.sidebar.title("GW 16")
+st.sidebar.title("GW 17")
 
 st.write('A free and straightforward tool for helping with your FPL team selection.')
 
